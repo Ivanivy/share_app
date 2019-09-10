@@ -1,4 +1,4 @@
-package networkdiscovery;
+package filetransfert;
 
 import java.io.IOException;
 import java.net.DatagramPacket;

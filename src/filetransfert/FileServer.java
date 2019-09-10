@@ -1,4 +1,4 @@
-package networkdiscovery;
+package filetransfert;
 import java.net.*;
 import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;

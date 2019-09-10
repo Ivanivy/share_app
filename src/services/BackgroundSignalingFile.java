@@ -1,4 +1,4 @@
-package networkdiscovery;
+package services;
 
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
@@ -8,6 +8,8 @@ import java.nio.file.Paths;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
+import filetransfert.FileClient;
+import networkdiscovery.NetworkScanner;
 
 public class BackgroundSignalingFile extends Thread {
 	

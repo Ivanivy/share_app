@@ -1,4 +1,4 @@
-package networkdiscovery;
+package services;
 
 import com.google.gson.JsonObject;
 

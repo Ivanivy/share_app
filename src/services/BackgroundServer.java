@@ -1,8 +1,9 @@
-package networkdiscovery;
+package services;
 
 import java.util.ArrayList;
 
 import com.google.gson.JsonObject;
+import networkdiscovery.ServerBroadcast;
 
 public class BackgroundServer extends Thread {
 	Thread t ; 

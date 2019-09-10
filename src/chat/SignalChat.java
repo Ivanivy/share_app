@@ -1,6 +1,5 @@
-package networkdiscovery;
+package chat;
 
-import Chat.ChatFrame;
 import com.google.gson.JsonObject;
 
 import java.io.IOException;

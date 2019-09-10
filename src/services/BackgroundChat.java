@@ -1,6 +1,6 @@
-package networkdiscovery;
+package services;
 
-import Chat.Chat;
+import chat.Chat;
 
 public class BackgroundChat extends Thread {
     public String client;

@@ -1,4 +1,7 @@
-package networkdiscovery;
+package services;
+
+import networkdiscovery.BroadcastClient;
+import networkdiscovery.AdressesScanner;
 
 import java.net.InetAddress;
 import java.util.HashMap;

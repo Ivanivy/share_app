@@ -1,4 +1,4 @@
-package networkdiscovery;
+package userinterface;
 
 import chat.SignalChat;
 import fileexplorer.FileExplorer;
